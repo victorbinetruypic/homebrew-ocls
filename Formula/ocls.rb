@@ -15,8 +15,8 @@
 class Ocls < Formula
   desc "Security scanner for agentic AI framework installations"
   homepage "https://gitlab.com/pyratzlabs/software/Openclaw_Security_Tooling_CLI"
-  url "https://gitlab.com/pyratzlabs/software/Openclaw_Security_Tooling_CLI/-/archive/v0.1.0/Openclaw_Security_Tooling_CLI-v0.1.0.tar.gz"
-  sha256 "c9931fbf211bf667f22d1e460004b3312c13495317073ee1738f536aaa2a3e95"
+  url "https://gitlab.com/pyratzlabs/software/Openclaw_Security_Tooling_CLI/-/archive/v0.1.1/Openclaw_Security_Tooling_CLI-v0.1.1.tar.gz"
+  sha256 "5da9ad65ff45b80c00c109c9b176b1ddb2aa6f54d5c1b893568fa9ebd781d2f7"
   license "MIT"
 
   head "https://gitlab.com/pyratzlabs/software/Openclaw_Security_Tooling_CLI.git",
